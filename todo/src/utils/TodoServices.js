@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:9090/api";
+const API_URL = "https://interview-y6h9.onrender.com/api";
 
 export const getTodos = async () => {
   try {
